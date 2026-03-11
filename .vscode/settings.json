@@ -1,0 +1,9 @@
+{
+    "python.defaultInterpreterPath": ".venv/Scripts/python.exe",
+    "python.terminal.activateEnvironment": true,
+    "jupyter.notebookFileRoot": "${AI_PROJECTS}",
+    "files.exclude": {
+        "**/__pycache__": true,
+        },
+    "files.autoSave": "afterDelay"
+}
